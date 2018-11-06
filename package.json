@@ -1,0 +1,18 @@
+{
+  "name": "mongo-workshop",
+  "version": "0.1.0",
+  "description": "mongo workshop",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "mocha test/db.spec.js --exit"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mongodb": "^2.2.31"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/origincodeacademy/startnow-db100-mongo-workshop.git"
+  },
+  "license": "MIT"
+}
