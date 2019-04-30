@@ -4,6 +4,9 @@ In this Module, we learned the basics of installing mongoDB, and how to do some 
 
 # Special offers inside,  
 
+## Some assembly required.
+## Batteries not included.
+
 # Author - Michel Roberts JR.
 
 # Modified by Travis Ripley, * Started Monday April 29th, 2019 14:00
